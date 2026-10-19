@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Cita Dark",
+  "version": "1.0.0",
+  "description": "Dark navy theme with mint accents based on silvestar.codes website.",
+  "icons": { "128": "icon-128.png" },
+  "theme": {
+    "colors": {
+      "frame": [1, 24, 48],
+      "frame_inactive": [1, 29, 59],
+      "frame_incognito": [103, 51, 82],
+      "frame_incognito_inactive": [77, 45, 73],
+      "toolbar": [10, 58, 107],
+      "tab_text": [99, 242, 197],
+      "tab_background_text": [157, 180, 211],
+      "tab_background_text_incognito": [255, 194, 209],
+      "tab_background_text_incognito_inactive": [255, 158, 181],
+      "bookmark_text": [230, 240, 250],
+      "toolbar_text": [230, 240, 250],
+      "toolbar_button_icon": [184, 230, 255],
+      "omnibox_background": [2, 38, 77],
+      "omnibox_text": [230, 240, 250],
+      "ntp_background": [2, 38, 77],
+      "ntp_text": [230, 240, 250],
+      "ntp_link": [99, 242, 197],
+      "ntp_header": [99, 242, 197]
+    }
+  }
+}

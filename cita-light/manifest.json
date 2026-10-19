@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Cita Light",
+  "version": "1.0.0",
+  "description": "Light theme with navy accents based on silvestar.codes website.",
+  "icons": { "128": "icon-128.png" },
+  "theme": {
+    "colors": {
+      "frame": [177, 249, 226],
+      "frame_inactive": [224, 252, 243],
+      "frame_incognito": [209, 18, 74],
+      "frame_incognito_inactive": [179, 51, 107],
+      "toolbar": [255, 255, 255],
+      "tab_text": [4, 58, 115],
+      "tab_background_text": [79, 106, 140],
+      "tab_background_text_incognito": [255, 255, 255],
+      "tab_background_text_incognito_inactive": [255, 255, 255],
+      "bookmark_text": [4, 58, 115],
+      "toolbar_text": [4, 58, 115],
+      "toolbar_button_icon": [4, 58, 115],
+      "omnibox_background": [224, 252, 243],
+      "omnibox_text": [4, 58, 115],
+      "ntp_background": [224, 252, 243],
+      "ntp_text": [4, 58, 115],
+      "ntp_link": [11, 92, 173],
+      "ntp_header": [8, 128, 90]
+    }
+  }
+}
